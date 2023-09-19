@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+
+.logo{
+    height: 90px;
+    align-items: flex-start;
+    padding: 1.5rem;
+    cursor: pointer;
+    pointer-events: none;
+}
+
+.user{
+    height: 90px;
+    align-items: flex-start;
+    padding: 2rem;
+    cursor: pointer;
+    pointer-events: none;
+}
+
+.images{
+    margin-top: 2rem;
+    pointer-events: none;
+}
+
+#game_icon{
+    height: 55px;
+    
+}
+#image_icon{
+    height: 55px;
+   margin-left: 2.5rem;
+}
+#video_icon{
+    height: 55px;
+    margin-left: 2.5rem;
+}
+.{
+    height: 55px;
+    margin-left: 2.5rem;
+}
+#meteum_icon{
+    height: 55px;
+    margin-left: 2.5rem;
+}
+#maps_icon{
+    height: 47px;
+    margin-left: 2.5rem;
+}
+#mail_icon{
+    height: 55px;
+    margin-left: 2.5rem;
+}
+.text{
+    display: flex;
+    align-items: center;
+}
+
+.para{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+}
+.first{
+    margin-left: 20rem;
+}
+.second{
+   padding-left: 3rem;
+}
+.third{
+    padding-left: 3.7rem;
+}
+.fourth{
+   padding-left: 3.5rem;
+}
+.fifth{
+   padding-left: 3.2rem;
+}
+.sixth{
+   padding-left: 3.8rem;
+}
+
+.box{
+    height: 60px;
+    width: 600px;
+    border: 3px solid orange;
+    padding: 0.8%;
+    border-radius: 15px;
+    margin-top: 2.4rem;
+
+    
+
+}
+.bottom{
+    display: flex;
+    align-items: center;
+    list-style: none;
+    cursor: pointer;
+
+}
+
+#weather{
+     height: 1.8rem;
+     padding-left: 18.5rem;
+     margin-top: 1rem;
+     pointer-events: none;
+}
+#degree{
+    padding-left: 0.4rem;
+    margin-top: 1rem;
+}
+#area{
+    padding-left: 28rem;
+    margin-top: 0.8rem;
+    color: lightslategray;
+}
