@@ -1,0 +1,1 @@
+# Yandex.logo.page
